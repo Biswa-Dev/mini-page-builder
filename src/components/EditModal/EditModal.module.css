@@ -1,0 +1,27 @@
+.editModal {
+    width: 30rem;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 0.3rem;
+}
+
+.modalHeader {
+    margin-bottom: 2rem;
+}
+
+.modalForm {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.saveBtn {
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+    background: #0044C1;
+    color: #ffffff;
+    outline: none;
+    border: none;
+}
